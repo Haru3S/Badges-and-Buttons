@@ -1,6 +1,7 @@
 # Badges-and-Buttons
 ![version](https://img.shields.io/badge/version-v1.4.1-blue)
-![file](https://img.shields.io/badge/file-release-brightgreen)
+![size](https://img.shields.io/badge/size-373kb-blue)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
 
 # Description
 Badges and Buttons is a pack with handcrafted well Badges and Buttons! Can be used in .png and .svg.
