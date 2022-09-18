@@ -1,5 +1,5 @@
 # Badges-and-Buttons
-![version](https://img.shields.io/badge/version-v1.3.2-blue)
+![version](https://img.shields.io/badge/version-v1.4.1-blue)
 ![file](https://img.shields.io/badge/file-release-brightgreen)
 
 # Description
